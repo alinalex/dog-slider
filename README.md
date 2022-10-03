@@ -12,15 +12,16 @@
 
 ## Features
 
-* Loading state
-* No data state
+* Dog themed loading state
+* Dog themed no data state
+* Dog themed favicon
 * Responsive design
 * When the user clicks on the carousel content (image, breed or temperament), the carousel proceeds to the next slide after 1.5 seconds (also animation with opacity) 
 * When the user clicks on one of the progress indicator dots, the carousel jumps to that slide
 * When the carousel reaches the last slide, it then restarts at the first slide
 
 ## You can see a demo by clicking the link below:
-[Doggo Slider Demo]()
+[Doggo Slider Demo](https://dog-slider.vercel.app/)
 
 ## Check out the app locally by going in the project directory and run:
 
