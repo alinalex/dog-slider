@@ -13,7 +13,7 @@
 ## Features
 
 * Dog themed loading state
-* Dog themed no data state
+* Dog themed no data/error state
 * Dog themed favicon
 * Responsive design
 * When the user clicks on the carousel content (image, breed or temperament), the carousel proceeds to the next slide after 1.5 seconds (also animation with opacity) 
